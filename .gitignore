@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Arquivo de lock
+package-lock.json
+
+# Pastas de sessão do WhatsApp Web
+.wwebjs_auth/
+
+# Logs ou arquivos temporários
+*.log
