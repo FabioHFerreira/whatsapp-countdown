@@ -9,3 +9,8 @@ package-lock.json
 
 # Logs ou arquivos temporários
 *.log
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+*.log
+package-lock.json
